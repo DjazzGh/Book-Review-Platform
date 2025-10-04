@@ -20,7 +20,7 @@ app.use((req, res, next) => {
   next();
 });*/
 app.use(cors({
-  origin: 'http://localhost:3000',
+  origin: 'https://book-review-platform-f.onrender.com',
   methods: ['GET', 'POST', 'PUT', 'DELETE'],
   allowedHeaders: ['Content-Type', 'Authorization'],
 }));
