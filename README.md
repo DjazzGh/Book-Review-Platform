@@ -139,5 +139,5 @@ The backend API is built with Express.js and follows a RESTful architecture. All
 
 ## Deployment Links
 
--   **Frontend Deployment:** [Link to Frontend Deployment]
--   **Backend API Documentation:** [Link to Backend API Documentation]
+-   **Frontend Deployment:** (https://book-review-platform-f.onrender.com)
+-   **Backend API Documentation:** (https://book-review-platform-2yrc.onrender.com)
