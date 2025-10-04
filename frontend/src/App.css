@@ -1,0 +1,9 @@
+@import "tailwindcss";
+.app-container {
+  min-height: 100vh;
+  background-color: #f7fafc; /* Tailwind's gray-100 */
+}
+body {
+  font-family: 'Inter', sans-serif;
+  overscroll-behavior: none; 
+}
